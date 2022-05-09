@@ -19,4 +19,6 @@ Ce qui va permettre d'ouvrir le dossier dans votre éditeur de code favoris
 - npm install webpack webpack-cli webpack-dev-server html-webpack-plugin
 - npm install @babel/core @babel/preset-env @babel/preset-react
 - touch .babelrc
-
+- npm install babel-loader style-loader css-loader sass-loader
+- npm install node-sass
+- touch webpack
