@@ -16,3 +16,7 @@ Ce qui va permettre d'ouvrir le dossier dans votre éditeur de code favoris
         - author : écrivez votre nom ou faites entrer
         - license : faites entrer
         - Is this ok? faites entrer ou taper yes
+- npm install webpack webpack-cli webpack-dev-server html-webpack-plugin
+- npm install @babel/core @babel/preset-env @babel/preset-react
+- touch .babelrc
+
